@@ -1,0 +1,2 @@
+Just run this command
+python object_size.py --image images/example_03.png --width 1
