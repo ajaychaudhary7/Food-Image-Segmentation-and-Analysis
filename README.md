@@ -16,6 +16,12 @@ python3 pizza.py train -- dataset=/path/to/dataset — weights=imagenet
 ```
 pizza.py is present inside : Mask_RCNN/samples/pizza_det
 
+![](/Toppings/edge_map_red.png)  
+![](Toppings/edge_map.png) 
+![](Toppings/edgy_radius.png)  
+![](Toppings/edgy_radius2.png) 
+![](Toppings/output.png)
+
 if you don't want to train the model and just see how model will predict or how the output will look like
 just go through the masky.ipynb
 
