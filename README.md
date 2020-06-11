@@ -1,4 +1,4 @@
-# Food-Analysis
+# Pizza Image Segmentation
 We used instance segmentation to segment pizza toppings and calculate the percentage area covered by the particular topping using Mask-RCNN.
 
 **Train a new model starting from pre-trained COCO weights**
